@@ -1,7 +1,7 @@
 # CollectionViewTest1
 Multiselection for a CollectionView, the bound property for SelectedItems is always null
 
-Buils and run CollectionViewTest1 as a Windows app. I see the same problem in Android.
+Build and run CollectionViewTest1 as a Windows app. I see the same problem in Android.
 You will see a collection view with a list of fruits
 Select 1 or more fruits and the output console will show (eg)
 
