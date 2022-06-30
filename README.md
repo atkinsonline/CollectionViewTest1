@@ -12,3 +12,5 @@ or set a breakpoint in FruitViewModel FruitSelectionChanged to see where these m
 The problem is that SelectedFruits is null
 
 I have seen this in windows and Android but have not tried other platforms.
+
+If I do the same with single selection and bind to SelectedItem, it works fine so it is just multi that is not working - for me!
